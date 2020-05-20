@@ -47,12 +47,12 @@ Curated list of online data bases relevant for ecological analyses and programma
 
 ## Taxonomy
 
-- [ITIS](https://www.itis.gov/)
+- [ITIS](https://www.itis.gov/): Authoritative taxonomic information on plants, animals, fungi, and microbes worldwide. 
   - [REST API](https://www.itis.gov/ws_description.html)
   - [R client](https://docs.ropensci.org/ritis/)
 
 
-## Genetic data
+## Genetic
 
 * [BOLD](https://www.boldsystems.org/)
   - [R client](https://docs.ropensci.org/bold/)
@@ -64,7 +64,7 @@ Curated list of online data bases relevant for ecological analyses and programma
 ## Species information
 
 * [Fishbase](https://www.fishbase.se/search.php)
-  - [R client](https://docs.ropensci.org/rfishbase/)
+  * [R client](https://docs.ropensci.org/rfishbase/)
 
 
 ## Legislation
